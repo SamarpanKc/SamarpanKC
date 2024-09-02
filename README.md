@@ -25,18 +25,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/samarpankc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samarpankc" /></a></p><br><br>
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=851134570" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=851134570&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of SamarpanKc/SamarpanKC - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=851134570&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarpankc&show_icons=true&locale=en&layout=compact" alt="samarpankc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarpankc&show_icons=true&locale=en" alt="samarpankc" /></p>
