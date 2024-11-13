@@ -2,9 +2,9 @@
 <h3 align="center">A passionate to learn new tech from Nepal.</h3>
 
 <h5 align="center">
-🔭 I’m currently working on [NPL Auction Time](https://nplcricketauctionsamarpan.netlify.app/)<br><br>
+🔭 I’m currently working on [NPL Auction Time] (https://nplcricketauctionsamarpan.netlify.app/)<br><br>
 🌱 I’m currently learning **React**<br><br>
-👨‍💻 All of my projects are available at [Portfilio](https://main--samarpankcportfolio.netlify.app/)<br><br>
+👨‍💻 All of my projects are available at [Portfilio] (https://main--samarpankcportfolio.netlify.app/)<br><br>
 💬 Ask me about **Figma, POP, OOP and JS**<br><br>
 📫 How to reach me **reach.samarpankc@gmail.com**<br><br>
 ⚡ Fun fact **No more inconsistence**
