@@ -1,25 +1,80 @@
-<h1 align="center">Namaste 🙏, It's me Samarpan KC</h1>
-<h3 align="center">A passionate to learn new tech from Nepal.</h3>
+<h1 align="center">Hi 👋, I'm Samarpan Kc</h1>
+<h3 align="center">Developer | Designer | Tech Enthusiast</h3>
 
-<h5 align="center">
-🔭 I’m currently working on [NPL Auction Time] (https://nplcricketauctionsamarpan.netlify.app/)<br><br>
-🌱 I’m currently learning **React**<br><br>
-👨‍💻 All of my projects are available at [Portfilio] (https://main--samarpankcportfolio.netlify.app/)<br><br>
-💬 Ask me about **Figma, POP, OOP and JS**<br><br>
-📫 How to reach me **reach.samarpankc@gmail.com**<br><br>
-⚡ Fun fact **No more inconsistence**
-  </h5>
+---
 
-<h3 align="center">Connect with me:</h3>
+<img align="right" src="https://github.com/SamarpanKc/SamarpanKc/assets/developer.gif" alt="Coding" width="400"/>
+
+🔭 **Currently working on:**  
+- Building awesome web apps with **React**, **Vite**, and **TailwindCSS**
+- Sharpening my **Java** and **C#** backend skills  
+- Exploring creative UI/UX design with **Figma**
+
+🌱 **Currently learning:**  
+- **Next.js** for modern server-side rendering
+- Advanced design systems using **Figma** & **TailwindCSS**
+
+💬 **Ask me about:**  
+- Frontend Development
+- Open Source Contributions
+- Coding Best Practices
+
+📫 **How to reach me:**  
+- 📧 Email: [reach.samarpankc@gmail.com](mailto:reach.samarpankc@gmail.com)
+- 🌐 Portfolio: [samarpankc.dev](https://main--samarpankcportfolio.netlify.app/) _(Coming Soon!)_
+
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+**Programming Languages:**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarpanKc&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanKc&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</div>
+
+---
+
+<h2 align="center">🌟 Highlights</h2>
+
+- 🚀 Developed dynamic, responsive web apps using **React** and **Vite**
+- 🎨 Designed sleek and intuitive interfaces in **Figma**
+- 🛠️ Built scalable backend APIs with **Java** and **C#**
+
+---
+
+<h2 align="center">📣 Let's Connect</h2>
+
 <p align="center">
-<a href="https://twitter.com/samarpankc79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarpankc79" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samarpankc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarpankc" height="30" width="40" /></a>
-<a href="https://instagram.com/samarpan_kc_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarpan_kc_7" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/SamarpanKc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/samarpankc79" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:reach.samarpankc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a> </p>
-
-
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarpankc&show_icons=true&locale=en&layout=compact" alt="samarpankc" /></p>
