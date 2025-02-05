@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/SamarpanKc/SamarpanKc/assets/developer.gif" alt="Coding" width="400"/>
 
 🔭 **Currently working on:**  
-- Building awesome web apps with **React**, **Vite**, and **TailwindCSS**
+- Building awesome web apps with **React**, **Next.js**, and **TailwindCSS**
 - Sharpening my **Java** and **C#** backend skills  
 - Exploring creative UI/UX design with **Figma**
 
