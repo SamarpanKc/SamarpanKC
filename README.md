@@ -7,7 +7,7 @@
 
 🔭 **Currently working on:**  
 - Building awesome web apps with **React**, **Next.js**, and **TailwindCSS**
-- Sharpening my **Java** and **C#** backend skills  
+- Sharpening my **Java** and **C** backend skills  
 - Exploring creative UI/UX design with **Figma**
 
 🌱 **Currently learning:**  
