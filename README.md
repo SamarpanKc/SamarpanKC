@@ -20,8 +20,8 @@
 - Coding Best Practices
 
 📫 **How to reach me:**  
-- 📧 Email: [reach.samarpankc@gmail.com](mailto:reach.samarpankc@gmail.com)
-- 🌐 Portfolio: [samarpankc.dev](https://main--samarpankcportfolio.netlify.app/) _(Coming Soon!)_
+- 📧 Email: [mail.samarpankc@gmail.com](mailto:mail.samarpankc@gmail.com)
+- 🌐 Portfolio: [samarpankc.dev](https://samarpankcdev.vercel.app/)
 
 ---
 
@@ -74,7 +74,7 @@
   <a href="https://x.com/samarpankc79" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:reach.samarpankc@gmail.com">
+  <a href="mailto:mail.samarpankc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
